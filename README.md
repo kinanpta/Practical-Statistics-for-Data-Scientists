@@ -1,7 +1,7 @@
 # Practical Statistics for Data Scientists
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3.8 to 3.12-9B7EDC?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3.8--3.12-9B7EDC?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Deep Learning-Assignment%2001-B39DDB?style=for-the-badge">
   <img src="https://img.shields.io/badge/Computer%20Engineering-Telkom%20University-C3B1E1?style=for-the-badge">
 </p>
@@ -86,7 +86,7 @@ Practical-Statistics-for-Data-Scientists/
 
 # 🛠 Tools & Libraries
 
-- Python 3.x
+- Python 3.8 - 3.12
 - Jupyter Notebook
 - NumPy
 - Pandas
