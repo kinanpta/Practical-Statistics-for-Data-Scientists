@@ -2,8 +2,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.x-9B7EDC?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Statistics-Data%20Science-B39DDB?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Telkom%20University-Computer%20Engineering-C3B1E1?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Deep Learning-Assignment%2001-B39DDB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Computer%20Engineering-Telkom%20University-C3B1E1?style=for-the-badge">
 </p>
 
 This repository contains code reproductions, structured summaries, and conceptual analyses on the book:
