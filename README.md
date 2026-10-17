@@ -20,7 +20,7 @@ analysis and machine learning workflows.
 
 ---
 
-# 📘 Project Overview
+# Project Overview
 
 The purpose of this repository is to provide a structured learning resource
 that combines statistical theory with hands-on implementation. 
@@ -35,7 +35,7 @@ statistical methods used in modern data science.
 
 ---
 
-# 📂 Contents
+# Contents
 
 Each chapter is documented in its own Jupyter Notebook and includes:
 
@@ -62,7 +62,7 @@ The learning progression includes:
 
 ---
 
-# 🧩 Repository Structure
+# Repository Structure
 
 ```text
 Practical-Statistics-for-Data-Scientists/
@@ -84,7 +84,7 @@ Practical-Statistics-for-Data-Scientists/
 
 ---
 
-# 🛠 Tools & Libraries
+# Tools & Libraries
 
 - Python 3.8 - 3.12
 - Jupyter Notebook
@@ -99,7 +99,7 @@ Practical-Statistics-for-Data-Scientists/
 
 ---
 
-# 🎓 Learning Purpose
+# Learning Purpose
 
 This repository is developed as part of the **Deep Learning** course at **Telkom University**.
 
@@ -116,7 +116,7 @@ learning reference for understanding practical statistics in data science.
 
 ---
 
-# 💡 Usage Notes
+# Usage Notes
 
 GitHub renders Jupyter Notebooks with a default interface that may not always
 provide the best reading experience.
@@ -126,7 +126,7 @@ notebooks locally using **VS Code** or **Jupyter Notebook**.
 
 ---
 
-# 📚 Reference
+# Reference
 
 Bruce, P., Bruce, A., & Gedeck, P. (2020).  
 *Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python (2nd Edition).*  
