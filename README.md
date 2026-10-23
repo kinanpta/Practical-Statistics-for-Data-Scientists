@@ -1,64 +1,56 @@
 # Practical Statistics for Data Scientists
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3.8--3.12-9B7EDC?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Deep Learning-Assignment%2001-B39DDB?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Computer%20Engineering-Telkom%20University-C3B1E1?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3.8--3.12-9B7EDC?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.8-3.12">
+  <img src="https://img.shields.io/badge/Deep Learning-Assignment%2001-B39DDB?style=for-the-badge" alt="Deep Learning Assignment 01">
+  <img src="https://img.shields.io/badge/Computer%20Engineering-Telkom%20University-C3B1E1?style=for-the-badge" alt="Computer Engineering, Telkom University">
 </p>
 
-This repository contains code reproductions, structured summaries, and conceptual analyses on the book:
+This repository contains structured chapter summaries, code reproductions, theoretical explanations, and practical implementations based on the book:
 
 **Practical Statistics for Data Scientists (2nd Edition)**  
-by *Peter Bruce, Andrew Bruce, and Peter Gedeck (O’Reilly)*
+by *Peter Bruce, Andrew Bruce, and Peter Gedeck (O’Reilly Media)*
 
 The project is developed as part of the **Deep Learning**
-course at **Telkom University**, and focuses on understanding statistical
-concepts through theoretical study and practical implementation for data
-analysis and machine learning workflows.
+course at **Telkom University**, focusing on understanding statistical concepts through theoretical study, Python implementation, and practical analysis for data science and machine learning workflows.
 
-**Status:** Work in Progress (Active focus on Assignment 1: Chapters 1–4).
+***Status: Work in Progress.***
 
 ---
 
 # Project Overview
 
-The purpose of this repository is to provide a structured learning resource
-that combines statistical theory with hands-on implementation. 
+This repository provides a structured resource integrating statistical theory with practical implementations, designed to enhance comprehension and application in modern data science learning.
 
-Each chapter is documented through Python-based Jupyter Notebooks containing chapter
-summaries, learning objectives, theoretical explanations, reproduced code
-examples, code explanations, result interpretations, and discussions. 
+Each chapter is documented through **Python-based Jupyter Notebooks** containing chapter
+summaries, learning objectives, theoretical explanations, code reproductions, code explanations, result interpretations, and discussions.
 
 The content follows the original book
-structure while incorporating conceptual breakdowns and practical implementation to improve understanding of
-statistical methods used in modern data science.
+structure while integrating conceptual clarifications and practical applications to strengthen understanding of statistical approaches commonly employed in modern data science practices.
 
 ---
 
 # Contents
 
-Each chapter is documented in its own Jupyter Notebook and includes:
+Each chapter is documented in **its own Jupyter Notebook** and includes the following elements, where applicable:
 
 - Chapter summary.
 - Learning objectives.
 - Theoretical explanation of important concepts.
-- Code reproduction based on the book examples.
+- Code reproduction based on the book or official repository.
 - Detailed code explanation.
 - Result analysis and interpretation.
 - Discussion and conclusion.
 
-The learning progression includes:
+The learning progression follows the seven chapters of the book:
 
-- Exploratory Data Analysis (EDA).
-- Data structures and statistical summaries.
-- Estimates of location and variability.
-- Data distributions and visualization.
-- Sampling distributions and confidence intervals.
-- Statistical experiments and significance testing.
-- Regression and prediction methods.
-- Classification techniques.
-- Statistical machine learning approaches.
-- Unsupervised learning methods.
+1. **Chapter 01:** Exploratory Data Analysis
+2. **Chapter 02:** Data and Sampling Distributions
+3. **Chapter 03:** Statistical Experiments and Significance Testing
+4. **Chapter 04:** Regression and Prediction
+5. **Chapter 05:** Classification
+6. **Chapter 06:** Statistical Machine Learning
+7. **Chapter 07:** Unsupervised Learning
 
 ---
 
@@ -66,7 +58,27 @@ The learning progression includes:
 
 ```text
 Practical-Statistics-for-Data-Scientists/
-
+│
+├── datasets/
+│   ├── airline_stats.csv
+│   ├── click_rates.csv
+│   ├── dfw_airline.csv
+│   ├── four_sessions.csv
+│   ├── full_train_set.csv.gz
+│   ├── house_sales.csv
+│   ├── housetasks.csv
+│   ├── imanishi_data.csv
+│   ├── kc_tax.csv.gz
+│   ├── lc_loans.csv
+│   ├── loan_data.csv.gz
+│   ├── loan200.csv
+│   ├── loan3000.csv
+│   ├── loans_income.csv
+│   ├── LungDisease.csv
+│   ├── sp500_data.csv.gz
+│   ├── sp500_sectors.csv
+│   ├── state.csv
+│   └── web_page_data.csv
 │
 ├── Chapter01_Exploratory_Data_Analysis.ipynb
 ├── Chapter02_Data_and_Sampling_Distributions.ipynb
@@ -76,10 +88,8 @@ Practical-Statistics-for-Data-Scientists/
 ├── Chapter06_Statistical_Machine_Learning.ipynb
 ├── Chapter07_Unsupervised_Learning.ipynb
 │
-├── datasets/
-│
-├── README.md
-└── requirements.txt
+├── .gitignore
+└── README.md
 ```
 
 ---
@@ -87,42 +97,33 @@ Practical-Statistics-for-Data-Scientists/
 # Tools & Libraries
 
 - Python 3.8 - 3.12
+- Visual Studio Code
 - Jupyter Notebook
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
 - SciPy
-- Scikit-Learn
+- Scikit-learn
 - Statsmodels
 - Wquantiles
+- Git and GitHub
 
 ---
 
 # Learning Purpose
 
-This repository is developed as part of the **Deep Learning** course at **Telkom University**.
+This repository is developed for the **Deep Learning** course at **Telkom University** and serves as an academic submission and personal reference for applied statistical learning. 
 
-The objective of this repository is to develop a deeper understanding of
-statistical concepts through theoretical learning, code reproduction, and
-practical implementation.
+It combines statistical theory, code reproduction, and Python-based experimentation to examine data distributions, uncertainty, hypothesis testing, prediction, classification, and unsupervised learning. 
 
-Through this project, statistical methods are explored from both mathematical
-and practical perspectives, especially their applications in data analysis
-and machine learning workflows.
-
-This repository is intended as both an academic submission and a personal
-learning reference for understanding practical statistics in data science.
+Through chapter-by-chapter analysis, the project connects statistical reasoning with practical workflows used for data analysis, model evaluation, and machine learning applications.
 
 ---
 
 # Usage Notes
 
-GitHub renders Jupyter Notebooks with a default interface that may not always
-provide the best reading experience.
-
-For better visualization and interaction, it is recommended to open the
-notebooks locally using **VS Code** or **Jupyter Notebook**.
+For interactive execution and clearer notebook rendering, **open the chapter files locally in VS Code or Jupyter Notebook** after installing the required Python libraries.
 
 ---
 
@@ -132,9 +133,11 @@ Bruce, P., Bruce, A., & Gedeck, P. (2020).
 *Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python (2nd Edition).*  
 O’Reilly Media.
 
-Original datasets and code reference:
-
+- Original code repository:
 https://github.com/gedeck/practical-statistics-for-data-scientists
+
+- Publisher's book page:
+https://www.oreilly.com/library/view/practical-statistics-for/9781492072942/
 
 ---
 
