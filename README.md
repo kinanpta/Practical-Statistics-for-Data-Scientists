@@ -14,7 +14,7 @@ by *Peter Bruce, Andrew Bruce, and Peter Gedeck (O’Reilly Media)*
 The project is developed as part of the **Deep Learning**
 course at **Telkom University**, focusing on understanding statistical concepts through theoretical study, Python implementation, and practical analysis for data science and machine learning workflows.
 
-***Status: Work in Progress.***
+**Status:** *Work in Progress.*
 
 ---
 
