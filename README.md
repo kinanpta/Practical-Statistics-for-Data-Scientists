@@ -134,9 +134,11 @@ Bruce, P., Bruce, A., & Gedeck, P. (2020).
 O’Reilly Media.
 
 - Original code repository:
+
 https://github.com/gedeck/practical-statistics-for-data-scientists
 
 - Publisher's book page:
+
 https://www.oreilly.com/library/view/practical-statistics-for/9781492072942/
 
 ---
